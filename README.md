@@ -4,7 +4,7 @@ A Fashion App
 
 # Description
 
-An app to shop wearables.
+An app to shop Wearables.
 
 ## How to Run
 
