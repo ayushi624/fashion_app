@@ -2,6 +2,10 @@
 
 A Fashion App
 
+# Description
+
+An app to shop footwear.
+
 ## How to Run
 
 1. Clone the repository:
